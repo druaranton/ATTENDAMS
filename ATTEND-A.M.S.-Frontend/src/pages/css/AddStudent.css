@@ -1,0 +1,21 @@
+#addFaceSamplesButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+#addFSampleText {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#samplingPic {
+    width: 10vw;
+    position: absolute;
+    top: 21vh;
+    left: 42.5vw;
+}
+
+#overlayClassMainHeader {
+    display: flex;
+}
